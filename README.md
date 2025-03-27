@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`c3`](https://developers.cloudflare.com/pages/get-started/c3).
 
+## Project Creation
+
+You can create a new Next.js application with the following command:
+
+```bash
+pnpm create cloudflare@latest my-next-app --framework=next
+```
+
 ## Getting Started
 
 First, run the development server:
